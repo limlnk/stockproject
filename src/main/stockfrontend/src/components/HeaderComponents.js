@@ -9,7 +9,7 @@ const HeaderComponents= ()=> {
                 <a href="http:\\www.w3schools.com" className='navbar-brand'>
                     StockMember Management Application
                 </a>
-                {/*  */}
+                
             </div>
         </nav>
 
